@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Shacosu.js/static/css/main.9c07f3be.chunk.css",
-    "main.js": "/Shacosu.js/static/js/main.fa6104a6.chunk.js",
-    "main.js.map": "/Shacosu.js/static/js/main.fa6104a6.chunk.js.map",
+    "main.css": "/Shacosu.js/static/css/main.9337f7b2.chunk.css",
+    "main.js": "/Shacosu.js/static/js/main.c9a7ae5f.chunk.js",
+    "main.js.map": "/Shacosu.js/static/js/main.c9a7ae5f.chunk.js.map",
     "runtime-main.js": "/Shacosu.js/static/js/runtime-main.fa23e394.js",
     "runtime-main.js.map": "/Shacosu.js/static/js/runtime-main.fa23e394.js.map",
     "static/css/2.4a53d2db.chunk.css": "/Shacosu.js/static/css/2.4a53d2db.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.6bc497b8.chunk.js.map": "/Shacosu.js/static/js/2.6bc497b8.chunk.js.map",
     "index.html": "/Shacosu.js/index.html",
     "static/css/2.4a53d2db.chunk.css.map": "/Shacosu.js/static/css/2.4a53d2db.chunk.css.map",
-    "static/css/main.9c07f3be.chunk.css.map": "/Shacosu.js/static/css/main.9c07f3be.chunk.css.map",
+    "static/css/main.9337f7b2.chunk.css.map": "/Shacosu.js/static/css/main.9337f7b2.chunk.css.map",
     "static/js/2.6bc497b8.chunk.js.LICENSE.txt": "/Shacosu.js/static/js/2.6bc497b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fa23e394.js",
     "static/css/2.4a53d2db.chunk.css",
     "static/js/2.6bc497b8.chunk.js",
-    "static/css/main.9c07f3be.chunk.css",
-    "static/js/main.fa6104a6.chunk.js"
+    "static/css/main.9337f7b2.chunk.css",
+    "static/js/main.c9a7ae5f.chunk.js"
   ]
 }
