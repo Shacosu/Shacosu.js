@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "/Shacosu.js/static/css/main.9c07f3be.chunk.css",
-    "main.js": "/Shacosu.js/static/js/main.49f152eb.chunk.js",
-    "main.js.map": "/Shacosu.js/static/js/main.49f152eb.chunk.js.map",
+    "main.js": "/Shacosu.js/static/js/main.a95ab21c.chunk.js",
+    "main.js.map": "/Shacosu.js/static/js/main.a95ab21c.chunk.js.map",
     "runtime-main.js": "/Shacosu.js/static/js/runtime-main.fa23e394.js",
     "runtime-main.js.map": "/Shacosu.js/static/js/runtime-main.fa23e394.js.map",
-    "static/js/2.8a0adeda.chunk.js": "/Shacosu.js/static/js/2.8a0adeda.chunk.js",
-    "static/js/2.8a0adeda.chunk.js.map": "/Shacosu.js/static/js/2.8a0adeda.chunk.js.map",
+    "static/css/2.4a53d2db.chunk.css": "/Shacosu.js/static/css/2.4a53d2db.chunk.css",
+    "static/js/2.6bc497b8.chunk.js": "/Shacosu.js/static/js/2.6bc497b8.chunk.js",
+    "static/js/2.6bc497b8.chunk.js.map": "/Shacosu.js/static/js/2.6bc497b8.chunk.js.map",
     "index.html": "/Shacosu.js/index.html",
+    "static/css/2.4a53d2db.chunk.css.map": "/Shacosu.js/static/css/2.4a53d2db.chunk.css.map",
     "static/css/main.9c07f3be.chunk.css.map": "/Shacosu.js/static/css/main.9c07f3be.chunk.css.map",
-    "static/js/2.8a0adeda.chunk.js.LICENSE.txt": "/Shacosu.js/static/js/2.8a0adeda.chunk.js.LICENSE.txt"
+    "static/js/2.6bc497b8.chunk.js.LICENSE.txt": "/Shacosu.js/static/js/2.6bc497b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fa23e394.js",
-    "static/js/2.8a0adeda.chunk.js",
+    "static/css/2.4a53d2db.chunk.css",
+    "static/js/2.6bc497b8.chunk.js",
     "static/css/main.9c07f3be.chunk.css",
-    "static/js/main.49f152eb.chunk.js"
+    "static/js/main.a95ab21c.chunk.js"
   ]
 }
