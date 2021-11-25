@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Shacosu.js/static/css/main.9337f7b2.chunk.css",
-    "main.js": "/Shacosu.js/static/js/main.c9a7ae5f.chunk.js",
-    "main.js.map": "/Shacosu.js/static/js/main.c9a7ae5f.chunk.js.map",
+    "main.js": "/Shacosu.js/static/js/main.beb2391c.chunk.js",
+    "main.js.map": "/Shacosu.js/static/js/main.beb2391c.chunk.js.map",
     "runtime-main.js": "/Shacosu.js/static/js/runtime-main.fa23e394.js",
     "runtime-main.js.map": "/Shacosu.js/static/js/runtime-main.fa23e394.js.map",
     "static/css/2.4a53d2db.chunk.css": "/Shacosu.js/static/css/2.4a53d2db.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4a53d2db.chunk.css",
     "static/js/2.6bc497b8.chunk.js",
     "static/css/main.9337f7b2.chunk.css",
-    "static/js/main.c9a7ae5f.chunk.js"
+    "static/js/main.beb2391c.chunk.js"
   ]
 }
